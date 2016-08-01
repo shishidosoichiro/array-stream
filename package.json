@@ -1,0 +1,35 @@
+{
+  "name": "array-stream",
+  "version": "1.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shishidosoichiro/array-stream.git"
+  },
+  "keywords": [
+    "array",
+    "stream",
+    "Promise"
+  ],
+  "author": "Soichiro Shishido",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shishidosoichiro/array-stream/issues"
+  },
+  "homepage": "https://github.com/shishidosoichiro/array-stream#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "coveralls": "^2.11.12",
+    "gulp": "^3.9.1",
+    "gulp-istanbul": "^1.0.0",
+    "gulp-mocha": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "istanbul": "^0.4.4",
+    "map-stream": "0.0.6",
+    "mocha": "^2.5.3"
+  }
+}
